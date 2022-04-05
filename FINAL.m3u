@@ -1627,3 +1627,302 @@ http://live.flixhub.net/hls/sonypixhd.m3u8
 http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo=" https://imgur.com/oE5ejMN"group-title="TATA PLAY",MN+ HD
 http://live.flixhub.net/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Shemaroo MarathiBana
+https://voot.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Marathi HD
+https://ultimateiptv.tk/g.php?id=out/v1/30bfd698af924d4abce147906278419c
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee 24 Taas
+https://ultimateiptv.tk/g.php?id=out/v1/915deae3b9024babbe4e35748e296d34
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",ZEE TALKIES
+https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Saam TV
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC6cxTsUnfSZrj96KNHhRTHQ
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Maiboli
+https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Sangeet Marathi
+https://m-c02-j2apps.s.loris.llnwd.net/hls/3724.SangeetMarathi.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",DD Sahyadri
+https://ultimateiptv.tk/g.php?id=out/v1/7716224c7ffd42b49751bb4e4941353a
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",In Goa 24x7
+http://optv.xyz/jio.php?Auth_Token=c3f2ab6354b820b072d460ce0a6f74dc4630a152&q=800&c=InGoa24x7
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Star Pravah
+http://starshare.live:8080/live/65446gfd44/23445dsa45/23799.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",AM News
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7010.AMNews.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Jai Maharastra News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCHW4CFX2bDlVdBWGJkbwcZg
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Lokshahi News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC2ut_DrUZvO0BzUxZ_g9fXQ
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",News18 Lokmat
+https://news18lokmatvoot-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",ABP Majha
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCH7nv1A9xIrAifZJNvt7cgA
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Yuva
+https://ultimateiptv.tk/g.php?id=out/v1/8cb6a17f49784fda88939f24b083af45
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Sony Marathi
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",9X Jhakaas
+https://ultimateiptv.tk/g.php?id=out/v1/7c652edb67ba4fcba361632f4b88f5f0
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",TV9 Marathi
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCdOSeEq9Cs2Pco7OCn2_i5w
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Fakt Marathi
+https://m-c036-j2apps.s.llnwi.net/hls/3200.FaktMarathi.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",BBC Marathi
+https://jiocdn.fun/live.php?c=BBC_Marathi
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Sugran
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCxsNU1zmm_1LTQyuOWipGvw
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Vajwa
+https://y5w8j4a9.ssl.hwcdn.net/zeevajwa/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zoomon News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC75tjBgLKv7l2QOKYLqd4Hg
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Ultimate IPTV
+https://ultimateiptv.tk/video.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Sony Pal
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",STAR Plus HD
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee TV HD
+https://ultimateiptv.tk/g.php?id=out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",🇺🇸 &TV HD US
+https://ultimateiptv.tk/g.php?id=andtvhdusa
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Anmol
+https://ultimateiptv.tk/g.php?id=out/v1/6bcef04f1d0f4207b4c8f98525ccd37f
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",DD BHARATI
+https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Fox News
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Alka Yagnik Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Udit Narayan Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Kishore Kumar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Mohd Rafi Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/chunklist_w489482750.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Morning Melodies Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/morning_melodies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Chai Time with Retroclassic Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/chaitimewith_retroclassic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Late Night Chill Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/latenight_chill/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Radio BollyFM
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Radio Mirchi (peridot)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",92.7 Big FM Mumbai
+http://sc-bb.1.fm:8017/
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Radio Garam Masala
+http://69.175.94.98:8146/
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Bollywood Radio and Beyond (2)
+http://185.80.220.12:8046/stream
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Mirchi Love
+https://mirchilove-lh.akamaihd.net/i/MIRCHILOVE_1@32886/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Yo Punjabi Mirchi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",BBC Asian Network (bbci)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_asian_network.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Mirchi Unplugged
+https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Mirchi Delhi Punjab
+https://delhipunjab-lh.akamaihd.net/i/DelhiPunjab_1@4165/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Mirchi Drive Radio
+https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Pehla Nasha
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",International Hits
+https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Ishq Delhi 104.8
+https://ishq_delhi-lh.akamaihd.net/i/Ishq_Delhi_1@854570/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",River of Calm
+https://listen.radioking.com/radio/49831/stream/86743
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Vividh Bharti
+http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",FM Rainbow
+https://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",AIR Punjabi
+http://airpunjabi-lh.akamaihd.net/i/airpunjabi_1@507822/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",AIR Agra
+http://airlsmp-lh.akamaihd.net/i/AIRLSMP018_1@107602/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",AIR Gold Mumbai
+http://nondelhi-lh.akamaihd.net/i/goldmumb_1@830453/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Hungama -Hot New Bollywood
+http://103.16.47.70:7222/;
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Hungama- 90s Once Again
+http://103.16.47.70:7444/;
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Hungama-Punjabi Hits
+http://103.16.47.70:9888/;
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Hungama-Mehfil Row
+http://103.16.47.70:9666/;
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Devraag Radio Devotional
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Sony SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Sony SET HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Star Bharat HD
+http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",&TV HD
+https://ultimateiptv.tk/g.php?id=out/v1/81b68c3858bf4481ad93679fd4253cf6
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Shemaroo TV
+https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",DD National
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-250
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Q TV
+https://ultimateiptv.tk/g.php?id=out/v1/191365ea74eb4075bb4a3d1075242002
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Fox News
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Alka Yagnik Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Udit Narayan Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Kishore Kumar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Mohd Rafi Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/chunklist_w489482750.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Morning Melodies Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/morning_melodies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Chai Time with Retroclassic Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/chaitimewith_retroclassic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Late Night Chill Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/latenight_chill/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Radio BollyFM
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Radio Mirchi (peridot)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",92.7 Big FM Mumbai
+http://sc-bb.1.fm:8017/
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Radio Garam Masala
+http://69.175.94.98:8146/
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Bollywood Radio and Beyond (2)
+http://185.80.220.12:8046/stream
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Mirchi Love
+https://mirchilove-lh.akamaihd.net/i/MIRCHILOVE_1@32886/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Yo Punjabi Mirchi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",BBC Asian Network (bbci)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_asian_network.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Mirchi Unplugged
+https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Mirchi Delhi Punjab
+https://delhipunjab-lh.akamaihd.net/i/DelhiPunjab_1@4165/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Mirchi Drive Radio
+https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Pehla Nasha
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",International Hits
+https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Ishq Delhi 104.8
+https://ishq_delhi-lh.akamaihd.net/i/Ishq_Delhi_1@854570/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",River of Calm
+https://listen.radioking.com/radio/49831/stream/86743
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Vividh Bharti
+http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",FM Rainbow
+https://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",AIR Punjabi
+http://airpunjabi-lh.akamaihd.net/i/airpunjabi_1@507822/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",AIR Agra
+http://airlsmp-lh.akamaihd.net/i/AIRLSMP018_1@107602/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",AIR Gold Mumbai
+http://nondelhi-lh.akamaihd.net/i/goldmumb_1@830453/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Hungama -Hot New Bollywood
+http://103.16.47.70:7222/;
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Hungama- 90s Once Again
+http://103.16.47.70:7444/;
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Hungama-Punjabi Hits
+http://103.16.47.70:9888/;
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Hungama-Mehfil Row
+http://103.16.47.70:9666/;
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Devraag Radio Devotional
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Star Gold Select Hd
+http://87.117.234.107:1935//live//STARGOLDSELECTFHD//chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Miniplex
+http://212.224.98.196:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",&Pictures
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",UTV Movies
+http://212.224.98.196:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Classic
+https://ultimateiptv.tk/g.php?id=out/v1/74df8b02f8ab47909df9a9f3189a1012
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",TV Asia Comedy
+https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",BBO
+http://istreamtv.fun/apid/premium/stb/tsportal/pix.php?cid=147788
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Sony Wah
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Anmol Cinema
+https://ultimateiptv.tk/g.php?id=zanmolcnm
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Cinema US
+https://ultimateiptv.tk/g.php?id=cinemausa
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",BOX Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Abzy Movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",WOW Cinema One
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Surya Cinema
+https://viacom-b.multitvsolution.com/viacomhls/suryacinema.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Movie Plus
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Star Gold HD
+https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Cinema HD
+https://ultimateiptv.tk/g.php?id=out/v1/1d59d08fec89495584d2b7e4059492a4
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",&xplorHD
+https://ultimateiptv.tk/g.php?id=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",&Pictures HD
+https://ultimateiptv.tk/g.php?id=out/v1/ae9617b9d66d4564831443eb2cc15caf
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",UTV HD
+http://212.224.98.196:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",UTV Action
+http://212.224.98.196:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Dish Evergreen Classics Active
+http://212.224.98.196:2200/R-EX/HINDI_EVERGREEN_CLASSIC-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",TV Asia Hindi
+https://streaming37.worldbbtv.com/hls/tvasiahindi.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Sony MAX 2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Bollywood
+https://ultimateiptv.tk/g.php?id=out/v1/581a1234e00a444db4e6aae80e505872
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Action
+https://ultimateiptv.tk/g.php?id=action
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Zee Cinema ME
+https://ultimateiptv.tk/g.php?id=zeecinemame
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",B4U Movies (IN)
+https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Abzy Dhakad
+https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",BFlix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",MANORANJAN TV
+https://viacom-b.multitvsolution.com/viacomhls/manoranjantv_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oE5ejMN"group-title="All In One",Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+#EXTINF:-1 tvg-logo=" https://imgur.com/oE5ejMN"group-title="All In One",Hiff Movies
+https://m-c050-j2apps.s.llnwi.net/hls/8044.HiffMovies.in.m3u8
+
